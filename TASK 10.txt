@@ -1,0 +1,1 @@
+1) we can also run pip freeze > requirements. txt in the command line to generate a requirements. txt file for our project / task .
